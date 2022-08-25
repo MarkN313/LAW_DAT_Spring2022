@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LAW_DAT_Spring2022/static/css/main.ee3dd610.css",
+    "main.js": "/LAW_DAT_Spring2022/static/js/main.6e5b0756.js",
+    "static/media/logo-300-px-c.png": "/LAW_DAT_Spring2022/static/media/logo-300-px-c.88b17dc49783133bd407.png",
+    "static/media/chartandgo-logo-2.png": "/LAW_DAT_Spring2022/static/media/chartandgo-logo-2.29276aa8ece1e022264c.png",
+    "index.html": "/LAW_DAT_Spring2022/index.html",
+    "main.ee3dd610.css.map": "/LAW_DAT_Spring2022/static/css/main.ee3dd610.css.map",
+    "main.6e5b0756.js.map": "/LAW_DAT_Spring2022/static/js/main.6e5b0756.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee3dd610.css",
+    "static/js/main.6e5b0756.js"
+  ]
+}
