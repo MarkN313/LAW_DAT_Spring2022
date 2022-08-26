@@ -35,6 +35,10 @@ const Redirect = () => {
         {/* These are other pages to be used for navigation */}
         <Route path="/view" element={<View />} />
         <Route path="/detail" element={<Detail_App />} />
+
+        {/* For GitHub Pages to load on startup */}
+        <Route path="/LAW_DAT_Spring2022" element={<App />} />
+
       </Routes> 
     </BrowserRouter>
   );
